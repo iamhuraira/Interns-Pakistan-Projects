@@ -9,7 +9,7 @@
 ### 3. Project: Bootstrap Design Conversion
 #### Link:==>   [Bootstrap Design Conversion](https://github.com/iamhuraira/Interns-Pakistan-Projects/tree/master/Covid%2019%20Screening%20%20Test)
 ### 4. Project: jQuery based App Challenge
-#### Link:==>   [jQuery based App Challenge](https://codesandbox.io/s/affectionate-hermann-9bxm0?file=/index.html)
+#### Link:==>   [jQuery based App Challenge](https://github.com/iamhuraira/Interns-Pakistan-Projects/tree/b079d7263b2fceb41393898c8cd4b84e8ef6fb6a/JQuery%20Challange%20Project)
 
 
 
