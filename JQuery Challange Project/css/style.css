@@ -165,9 +165,9 @@ ol {
 
 
 .modal-dialog {
-  position: fixed;
-  width: auto;
-  margin: 0px;
+   position: relative;
+  width: 100%;
+  margin: 0px auto;
   pointer-events: none;
   height: 100%;
   background: white;
@@ -192,4 +192,9 @@ ol {
 }
 .question .active {
   display: block;
+}
+.question img {
+  width: 350px;
+  margin: 0 auto;
+  padding: 50px 50px 50px 50px ;
 }
